@@ -2,5 +2,7 @@
 =========================
 To Execute API Tests
 ----------------
-mvn clean compile test-compile test
+Maven & Java is required
+
+**Command:** mvn clean compile test-compile test
 
