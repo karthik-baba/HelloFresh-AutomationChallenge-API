@@ -1,6 +1,6 @@
 #API AUTOMATION CHALLENGE
 =========================
-Executes Scripts
+To Execute API Tests
 ----------------
 mvn clean compile test-compile test
 
