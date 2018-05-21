@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12190" started-at="2018-05-21T17:14:58Z" finished-at="2018-05-21T17:15:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12190" started-at="2018-05-21T17:14:58Z" finished-at="2018-05-21T17:15:10Z">
+      <class name="com.hellofresh.api.RegressionSuite.CountryTests">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.hellofresh.api.RegressionSuite.CountryTests@5dfcfece]" name="init" is-config="true" duration-ms="619" started-at="2018-05-21T22:44:58Z" finished-at="2018-05-21T22:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addNewCountry()[pri:0, instance:com.hellofresh.api.RegressionSuite.CountryTests@5dfcfece]" name="addNewCountry" duration-ms="2821" started-at="2018-05-21T22:44:58Z" finished-at="2018-05-21T22:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCountry -->
+        <test-method status="PASS" signature="getAllCountriesTest()[pri:0, instance:com.hellofresh.api.RegressionSuite.CountryTests@5dfcfece]" name="getAllCountriesTest" duration-ms="4114" started-at="2018-05-21T22:45:01Z" finished-at="2018-05-21T22:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCountriesTest -->
+        <test-method status="PASS" signature="getIndividualCountries()[pri:0, instance:com.hellofresh.api.RegressionSuite.CountryTests@5dfcfece]" name="getIndividualCountries" duration-ms="3588" started-at="2018-05-21T22:45:05Z" finished-at="2018-05-21T22:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIndividualCountries -->
+        <test-method status="PASS" signature="getInvalidCountries()[pri:0, instance:com.hellofresh.api.RegressionSuite.CountryTests@5dfcfece]" name="getInvalidCountries" duration-ms="1018" started-at="2018-05-21T22:45:09Z" finished-at="2018-05-21T22:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidCountries -->
+      </class> <!-- com.hellofresh.api.RegressionSuite.CountryTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
